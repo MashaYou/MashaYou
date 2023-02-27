@@ -18,6 +18,7 @@
 - 📫 Reach me by [email](maria.yurchenko33@gmail.com)
 - 📄 Know about my experiences [CV](https://disk.yandex.ru/i/lX1rw3JiIt_akA)
 - 😄 Pronouns: she/her.
+- 🌍 I speak Russian, English and a little bit German (A2).
 - ⚡ Fun fact: nuclear physicist by education.
 
 ### Languages and tools
