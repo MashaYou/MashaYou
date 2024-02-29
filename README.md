@@ -15,9 +15,8 @@
 </div>
 
 ### About me
-- 👩‍💻 3+ years of professional experience in native Android App Development.
+- 👩‍💻 4 years of professional experience in native Android App Development.
 - 🎓 Graduated from MEPHI (#1 Russian Tech University).
-- 🌱 I currently learn Kotlin Mobile Multiplatform (KMM) and all related: SwiftUI, Jetpack Compose, etc.
 - 📫 Reach me by [email](maria.yurchenko33@gmail.com)
-- 🌍 I speak Russian, English and German.
+- 🌍 I speak Russian, English, and German.
 - 🕊️ Liberal, pacifist.
