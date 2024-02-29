@@ -19,4 +19,4 @@
 - 🎓 Graduated from MEPHI (#1 Russian Tech University).
 - 📫 Reach me by [email](maria.yurchenko33@gmail.com)
 - 🌍 I speak Russian, English, and German.
-- 🕊️ Liberal, pacifist.
+- 🕊️ Hippie
